@@ -16,6 +16,7 @@
 }
 
 .row::after {
+  clear: both;
 }
 
 .col-3, .col-4, .col-6, .col-12 {

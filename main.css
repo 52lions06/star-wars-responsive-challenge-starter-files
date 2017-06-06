@@ -1,6 +1,4 @@
-main {
-  padding-top: 100px;
-}
+
 
 header {
   width: 100%;
@@ -16,6 +14,7 @@ header h1, h4 {
 }
 
 main .row {
+  margin-bottom: 20px;
 }
 
 .box {
